@@ -1,0 +1,1172 @@
+,Age,ER_Status,PR_Status,HER2_Status,Grade,T_Stage,N_Stage,PAM50_Class,DRFS_Event,DRFS_Year,ChemoResponse
+GSM4171585,44.0,positive,positive,negative,2.0,T3,N0,LumA,,,Resistant
+GSM508033,43.0,positive,positive,negative,unknown,T4,N1,,,,Resistant
+GSM615218,56.0,negative,negative,negative,3,T4,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.575,Resistant
+GSM615253,41.0,positive,negative,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.057,Resistant
+GSM4171566,39.0,positive,positive,negative,3.0,T2,N1,LumB,,,Resistant
+GSM615733,64.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.18754277891855,Sensitive
+GSM505452,36.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505456,46.0,positive,positive,negative,2.0,T4,,,,,Resistant
+GSM505357,44.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM615789,38.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.75290896646133,Resistant
+GSM809208,50.0,negative,negative,negative,,T2,,,,,Resistant
+GSM508116,50.0,negative,negative,negative,3,T4,N2,,,,Sensitive
+GSM615155,31.5,positive,positive,negative,3,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.192,Resistant
+GSM615311,34.0,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.694,Resistant
+GSM508052,64.0,negative,negative,negative,3,T3,N0,,,,Resistant
+GSM4171549,68.0,negative,negative,positive,3.0,T2,N0,Her2,,,Resistant
+GSM615255,39.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.854,Resistant
+GSM615706,43.0,negative,positive,negative,2,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.6570841889117,Sensitive
+GSM615258,55.0,positive,positive,negative,2,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.469,Resistant
+GSM505419,62.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM615236,71.0,positive,positive,negative,3,T2,N3,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.877,Resistant
+GSM505440,64.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM508149,46.0,positive,positive,negative,3,T2,N0,,,,Sensitive
+GSM809206,35.0,positive,negative,negative,,T2,,,,,Resistant
+GSM615634,47.1,positive,positive,negative,2,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.05407255304586,Sensitive
+GSM809278,63.0,negative,negative,negative,,T2,,,,,Resistant
+GSM505468,60.0,positive,negative,negative,3.0,T4,,,,,Resistant
+GSM615279,50.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.188,Resistant
+GSM505565,46.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM809216,56.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508057,71.0,positive,positive,negative,3,T4,N1,,,,Resistant
+GSM508070,49.0,positive,negative,positive,unknown,T4,N2,,,,Resistant
+GSM615247,40.0,positive,positive,negative,3,T1,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.027,Resistant
+GSM4171505,59.0,positive,negative,negative,3.0,T2,N0,LumB,,,Sensitive
+GSM505548,51.0,negative,positive,negative,2.0,T2,,,,,Resistant
+GSM508042,39.0,negative,negative,negative,3,T3,N2,,,,Resistant
+GSM505368,52.0,positive,negative,negative,1.0,T3,,,,,Sensitive
+GSM2778778,,negative,negative,negative,,,,,,,Sensitive
+GSM508012,48.0,negative,negative,negative,3,T2,N2,,,,Sensitive
+GSM615205,68.0,positive,negative,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.059,Resistant
+GSM615250,63.0,negative,negative,negative,3,T1,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.745,Resistant
+GSM505434,45.0,negative,negative,positive,3.0,T4,,,,,Sensitive
+GSM505369,59.0,negative,positive,negative,3.0,T4,,,,,Resistant
+GSM508177,35.0,positive,positive,negative,2,T1,N1,,,,Resistant
+GSM508165,45.0,negative,negative,positive,3,T2,N0,,,,Sensitive
+GSM615376,51.0,negative,negative,negative,2,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.133,Resistant
+GSM809268,63.0,positive,positive,negative,,T2,,,,,Resistant
+GSM505339,42.0,positive,negative,negative,3.0,T3,,,,,Sensitive
+GSM508038,46.0,positive,positive,negative,unknown,T4,N2,,,,Sensitive
+GSM505553,50.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM505386,55.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM508071,59.0,negative,negative,negative,3,T2,N1,,,,Sensitive
+GSM505487,63.0,negative,negative,negative,3.0,T1,,,,,Resistant
+GSM615158,59.6,positive,positive,negative,1,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.275,Resistant
+GSM505569,47.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM508111,68.0,negative,negative,negative,3,T3,N0,,,,Resistant
+GSM809257,48.0,positive,positive,negative,,T2,,,,,Resistant
+GSM4171564,49.0,negative,negative,negative,3.0,T2,N0,LumA,,,Resistant
+GSM615355,47.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.010,Resistant
+GSM505579,73.0,positive,positive,negative,1.0,T2,,,,,Resistant
+GSM615328,45.0,positive,positive,negative,2,T4,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.357,Resistant
+GSM615222,48.0,positive,negative,negative,2,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.536,Resistant
+GSM505426,56.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505329,77.0,positive,negative,positive,2.0,T4,,,,,Resistant
+GSM615686,37.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.3388090349076,Resistant
+GSM615201,41.0,positive,negative,negative,3,T3,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.111,Sensitive
+GSM505433,35.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM809296,42.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508055,38.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM508124,49.0,positive,positive,negative,2,T2,N3,,,,Resistant
+GSM615736,52.0,positive,negative,negative,3,T0,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.32169746748802,Sensitive
+GSM4171497,53.0,negative,negative,negative,3.0,T2,N1,Basal,,,Sensitive
+GSM4171526,51.0,positive,positive,negative,2.0,T2,N1,LumA,,,Resistant
+GSM505578,53.0,positive,positive,negative,1.0,T2,,,,,Resistant
+GSM505513,42.0,positive,positive,negative,3.0,T3,,,,,Resistant
+GSM508180,26.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615294,45.0,positive,negative,negative,3,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.047,Resistant
+GSM505414,79.0,positive,positive,positive,3.0,T3,,,,,Resistant
+GSM615775,46.0,positive,positive,negative,3,T2,N0,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.02121834360027,Sensitive
+GSM505593,36.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM809226,62.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM615712,57.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.23750855578371,Resistant
+GSM615347,72.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.253,Resistant
+GSM809270,66.0,positive,negative,positive,,T2,,,,,Resistant
+GSM505354,38.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505503,60.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM615642,54.0,positive,positive,negative,3,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.82683093771389,Resistant
+GSM615396,32.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.824,Sensitive
+GSM508121,47.0,positive,positive,negative,2,T4,N1,,,,Resistant
+GSM615386,49.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.879,Resistant
+GSM615366,46.0,positive,positive,negative,1,T2,N3,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.878,Resistant
+GSM508058,74.0,negative,negative,negative,unknown,T4,N1,,,,Resistant
+GSM505402,52.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505600,40.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM505537,58.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM615392,65.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.085,Resistant
+GSM505331,75.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM505429,28.0,positive,positive,positive,3.0,T4,,,,,Resistant
+GSM809228,59.0,positive,positive,negative,,T2,,,,,Resistant
+GSM4171515,63.0,positive,negative,negative,2.0,T2,N1,Basal,,,Resistant
+GSM4171529,49.0,positive,positive,negative,2.0,T3,N1,LumB,,,Resistant
+GSM809263,49.0,positive,positive,negative,,T1,,,,,Resistant
+GSM809272,49.0,negative,negative,positive,,T3,,,,,Sensitive
+GSM505536,53.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM508156,46.0,negative,negative,positive,3,T4,N2,,,,Resistant
+GSM615710,42.0,positive,positive,negative,2,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.06297056810404,Resistant
+GSM615110,49.6,unknown,unknown,unknown,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.953,Sensitive
+GSM505336,61.0,negative,positive,negative,3.0,T1,,,,,Sensitive
+GSM809261,70.0,positive,negative,negative,,T2,,,,,Resistant
+GSM4171555,52.0,positive,positive,negative,3.0,T2,N0,LumA,,,Resistant
+GSM615149,44.2,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.715,Resistant
+GSM615793,53.0,negative,negative,negative,unknown,T4,N0,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.97878165639973,Sensitive
+GSM508086,47.0,negative,negative,positive,2,T3,N1,,,,Resistant
+GSM615654,45.1,positive,positive,negative,3,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.43052703627652,Resistant
+GSM615290,66.0,positive,positive,negative,2,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.151,Resistant
+GSM615234,45.0,positive,negative,negative,3,T2,N2,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.348,Resistant
+GSM508036,43.0,positive,negative,negative,unknown,T4,N2,,,,Sensitive
+GSM809194,36.0,positive,positive,negative,,T2,,,,,Sensitive
+GSM4171503,52.0,positive,positive,negative,2.0,T2,N0,LumA,,,Resistant
+GSM615792,36.0,positive,positive,negative,unknown,T3,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.90965092402464,Resistant
+GSM508062,45.0,positive,positive,negative,2,T4,N3,,,,Resistant
+GSM615675,45.2,positive,positive,negative,3,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.09582477754962,Resistant
+GSM508178,51.0,negative,negative,negative,unknown,T4,N2,,,,Resistant
+GSM505341,44.0,negative,positive,positive,3.0,T2,,,,,Sensitive
+GSM505438,38.0,negative,negative,negative,3.0,T4,,,,,Sensitive
+GSM615649,65.3,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.449007529089665,Resistant
+GSM505539,47.0,positive,positive,negative,2.0,T1,,,,,Resistant
+GSM809275,73.0,positive,positive,negative,,T2,,,,,Resistant
+GSM4171580,45.0,positive,positive,negative,2.0,T3,N1,LumA,,,Resistant
+GSM2778771,,negative,negative,negative,,,,,,,Resistant
+GSM508097,57.0,negative,negative,negative,2,T2,N0,,,,Resistant
+GSM505519,58.0,positive,positive,negative,3.0,T3,,,,,Resistant
+GSM615388,40.0,positive,positive,negative,2,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.778,Resistant
+GSM615289,46.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.028,Resistant
+GSM508133,60.0,positive,positive,negative,2,T3,N0,,,,Resistant
+GSM615362,52.0,positive,positive,negative,1,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.963,Resistant
+GSM2778767,,negative,negative,negative,,,,,,,Resistant
+GSM508130,40.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM615291,59.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.709,Sensitive
+GSM4171528,57.0,positive,positive,negative,3.0,T3,N1,LumA,,,Resistant
+GSM615813,68.0,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.7015742642026,Resistant
+GSM505443,28.0,positive,positive,positive,3.0,T4,,,,,Resistant
+GSM505568,50.0,positive,positive,negative,3.0,T3,,,,,Resistant
+GSM615186,51.0,positive,negative,negative,1,T3,N3,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.661,Sensitive
+GSM615193,40.0,negative,negative,negative,3,T1,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.439,Sensitive
+GSM809295,68.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM615252,54.0,positive,negative,negative,2,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.194,Resistant
+GSM615160,37.7,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.383,Resistant
+GSM615644,50.1,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.45995893223819,Sensitive
+GSM508106,71.0,negative,negative,negative,3,T2,N1,,,,Resistant
+GSM615802,44.0,positive,positive,negative,unknown,T2,N2,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.31006160164271,Sensitive
+GSM508105,56.0,positive,negative,negative,unknown,T4,N1,,,,Sensitive
+GSM615739,53.0,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.65092402464066,Resistant
+GSM615784,63.0,negative,negative,negative,3,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.7741273100616,Resistant
+GSM4171537,31.0,positive,negative,positive,3.0,T2,N1,LumB,,,Resistant
+GSM4171506,37.0,negative,positive,positive,3.0,T2,N0,Her2,,,Sensitive
+GSM615687,39.0,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.25941136208077,Resistant
+GSM615377,49.0,positive,positive,negative,2,T4,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.719,Resistant
+GSM505454,31.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM4171517,57.0,negative,negative,negative,2.0,T3,,Basal,,,Sensitive
+GSM809219,60.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615154,40.8,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.530,Sensitive
+GSM615356,43.0,negative,negative,negative,3,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.161,Resistant
+GSM809207,59.0,positive,positive,positive,,T2,,,,,Resistant
+GSM615281,44.0,positive,negative,negative,2,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.489,Resistant
+GSM615742,38.0,negative,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.08624229979466,Sensitive
+GSM615103,54.2,unknown,unknown,unknown,unknown,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.300,Resistant
+GSM4171536,44.0,negative,negative,negative,3.0,T2,N0,Basal,,,Resistant
+GSM4171500,50.0,positive,positive,negative,3.0,T2,N0,LumB,,,Resistant
+GSM615242,46.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.485,Sensitive
+GSM615165,43.4,positive,negative,negative,2,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.640,Resistant
+GSM809197,44.0,positive,positive,negative,,T4,,,,,Resistant
+GSM615243,46.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.298,Resistant
+GSM508176,58.0,negative,negative,negative,3,T2,N1,,,,Resistant
+GSM615232,56.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.888,Resistant
+GSM508023,62.0,positive,positive,negative,2,T3,N0,,,,Resistant
+GSM505500,46.0,negative,negative,negative,3.0,T3,,,,,Resistant
+GSM2778783,,negative,negative,negative,,,,,,,Sensitive
+GSM615365,63.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.927,Resistant
+GSM615374,56.0,positive,positive,negative,1,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.665,Resistant
+GSM615334,61.0,negative,negative,negative,3,T3,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.198,Sensitive
+GSM508096,48.0,negative,negative,negative,2,T2,N1,,,,Resistant
+GSM505570,43.0,negative,negative,negative,2.0,T2,,,,,Resistant
+GSM615161,43.8,unknown,unknown,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.401,Resistant
+GSM615777,35.0,positive,positive,negative,2,T1,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.02464065708419,Resistant
+GSM615146,38.9,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.533,Sensitive
+GSM4171554,73.0,positive,positive,negative,2.0,T2,N1,Her2,,,Resistant
+GSM2778782,,negative,negative,negative,,,,,,,Resistant
+GSM615387,38.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.391,Resistant
+GSM508132,65.0,negative,negative,negative,3,T3,N1,,,,Resistant
+GSM505365,34.0,positive,positive,negative,2.0,T4,,,,,Resistant
+GSM4171574,35.0,negative,negative,negative,3.0,T2,N1,Basal,,,Sensitive
+GSM615702,57.0,positive,negative,negative,3,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.60164271047228,Resistant
+GSM615734,61.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.80903490759754,Resistant
+GSM615402,47.0,positive,positive,negative,2,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.363,Resistant
+GSM4171507,59.0,positive,positive,negative,2.0,T2,N0,LumA,,,Resistant
+GSM508167,61.0,positive,positive,negative,1,T2,N0,,,,Resistant
+GSM508184,73.0,positive,positive,negative,1,T2,N1,,,,Resistant
+GSM809221,48.0,negative,negative,positive,,T2,,,,,Resistant
+GSM615230,39.0,positive,positive,negative,3,T2,N0,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.008,Resistant
+GSM4171542,39.0,positive,positive,negative,2.0,T2,N0,LumB,,,Resistant
+GSM615332,66.0,positive,negative,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.437,Resistant
+GSM508159,59.0,positive,negative,negative,2,T4,N2,,,,Resistant
+GSM615745,46.0,positive,positive,negative,2,T1,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.94934976043806,Resistant
+GSM615260,56.0,positive,positive,negative,3,T0,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.752,Resistant
+GSM615197,67.0,negative,negative,negative,3,T2,N2,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.612,Resistant
+GSM615261,58.0,positive,positive,negative,3,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.973,Resistant
+GSM615809,53.0,positive,negative,negative,2,T4,N2,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.1813826146475,Resistant
+GSM615656,49.3,positive,negative,negative,2,T3,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.58658453114305,Sensitive
+GSM615156,38.3,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.026,Resistant
+GSM505393,71.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM615099,40.8,negative,negative,negative,unknown,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.424,Sensitive
+GSM2778769,,negative,negative,negative,,,,,,,Resistant
+GSM4171569,29.0,positive,positive,negative,3.0,T2,N2,LumB,,,Resistant
+GSM615668,40.3,negative,negative,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.50855578370979,Sensitive
+GSM809290,44.0,positive,positive,positive,,T1,,,,,Resistant
+GSM505428,38.0,negative,negative,negative,3.0,T4,,,,,Sensitive
+GSM615142,51.5,positive,positive,negative,unknown,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.946,Resistant
+GSM615676,46.8,negative,positive,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.18891170431212,Sensitive
+GSM615698,56.0,positive,positive,negative,3,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.75770020533881,Resistant
+GSM4171534,48.0,negative,negative,positive,3.0,T2,N1,Her2,,,Resistant
+GSM615391,58.0,positive,positive,negative,3,T4,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.188,Resistant
+GSM508118,42.0,positive,positive,negative,3,T3,N1,,,,Resistant
+GSM505403,52.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615713,45.0,positive,positive,negative,2,T1,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.09103353867214,Resistant
+GSM809185,56.0,negative,negative,negative,,T3,,,,,Sensitive
+GSM809245,44.0,negative,negative,positive,,T2,,,,,Resistant
+GSM809269,42.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508047,40.0,negative,negative,negative,3,T4,N0,,,,Resistant
+GSM615309,45.0,positive,positive,negative,3,T4,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.845,Resistant
+GSM4171560,70.0,negative,negative,negative,2.0,T2,N0,LumB,,,Resistant
+GSM505522,65.0,positive,positive,positive,2.0,T1,,,,,Resistant
+GSM615683,57.7,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.98904859685147,Resistant
+GSM615303,68.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.344,Resistant
+GSM508120,71.0,positive,negative,negative,3,T4,N1,,,,Resistant
+GSM615640,49.0,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.1937029431896,Resistant
+GSM505423,48.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM615288,38.0,negative,negative,negative,3,T1,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.604,Resistant
+GSM505475,38.0,negative,negative,negative,3.0,T1,,,,,Resistant
+GSM4171568,53.0,positive,positive,negative,,T2,N0,LumA,,,Resistant
+GSM615153,64.3,positive,positive,negative,2,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.672,Resistant
+GSM615827,71.0,negative,negative,negative,3,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.19507186858316,Resistant
+GSM505418,55.0,negative,negative,positive,3.0,T4,,,,,Resistant
+GSM615373,44.0,positive,negative,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.029,Resistant
+GSM508094,43.0,positive,negative,negative,2,T2,N1,,,,Resistant
+GSM505597,62.0,positive,positive,negative,3.0,T4,,,,,Resistant
+GSM809184,46.0,positive,negative,negative,,T3,,,,,Resistant
+GSM508020,42.0,positive,positive,negative,2,T3,N1,,,,Resistant
+GSM505391,56.0,positive,positive,positive,2.0,T2,,,,,Sensitive
+GSM809196,33.0,positive,positive,negative,,T3,,,,,Resistant
+GSM615115,44.2,negative,negative,negative,2,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.151,Resistant
+GSM4171582,56.0,positive,positive,negative,2.0,T2,N1,Normal,,,Resistant
+GSM508136,48.0,positive,negative,negative,2,T4,N2,,,,Resistant
+GSM615169,47.8,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.264,Resistant
+GSM615273,48.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.281,Resistant
+GSM809247,54.0,negative,negative,negative,,T4,,,,,Resistant
+GSM4171570,26.0,positive,positive,positive,2.0,T2,N0,Normal,,,Sensitive
+GSM615104,46.6,negative,negative,negative,unknown,T3,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.783,Resistant
+GSM615274,68.0,positive,positive,negative,2,T0,N3,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.794,Resistant
+GSM615166,40.6,positive,positive,unknown,2,T3,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.119,Resistant
+GSM508158,44.0,negative,negative,negative,unknown,T4,N2,,,,Resistant
+GSM505544,39.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM505381,39.0,negative,negative,positive,3.0,T4,,,,,Resistant
+GSM505515,54.0,positive,negative,negative,2.0,T4,,,,,Resistant
+GSM505439,71.0,negative,negative,positive,2.0,T1,,,,,Sensitive
+GSM615694,40.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.4072553045859,Sensitive
+GSM615707,63.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.79123887748118,Resistant
+GSM615292,47.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.371,Resistant
+GSM505464,47.0,positive,negative,negative,3.0,T3,,,,,Resistant
+GSM615389,53.0,positive,negative,negative,1,T2,N3,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.147,Resistant
+GSM508146,63.0,negative,negative,negative,unknown,T2,N1,,,,Resistant
+GSM615304,57.0,positive,positive,negative,3,T1,N2,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.916,Resistant
+GSM809223,52.0,positive,negative,negative,,T4,,,,,Resistant
+GSM615329,41.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.059,Resistant
+GSM615137,35.1,positive,negative,negative,unknown,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.464,Sensitive
+GSM505343,66.0,negative,positive,negative,3.0,T2,,,,,Resistant
+GSM615228,42.0,positive,negative,negative,3,T1,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.580,Resistant
+GSM615666,66.7,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.56673511293635,Resistant
+GSM4171499,62.0,negative,negative,negative,2.0,T2,N1,Basal,,,Resistant
+GSM508017,39.0,negative,negative,positive,2,T3,N1,,,,Resistant
+GSM809202,65.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM508134,43.0,negative,negative,negative,3,T4,N3,,,,Resistant
+GSM615249,67.0,positive,positive,negative,3,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.756,Resistant
+GSM4171578,73.0,negative,negative,negative,2.0,T1,N0,Normal,,,Sensitive
+GSM505420,46.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM508098,73.0,positive,negative,negative,2,T4,N0,,,,Resistant
+GSM809262,48.0,positive,positive,negative,,T1,,,,,Resistant
+GSM505589,63.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615681,52.8,negative,negative,negative,unknown,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.23477070499658,Sensitive
+GSM505590,46.0,positive,positive,negative,1.0,T2,,,,,Resistant
+GSM508088,49.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615335,51.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.923,Resistant
+GSM615645,46.9,positive,positive,negative,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.91718001368925,Resistant
+GSM505527,60.0,negative,negative,negative,2.0,T4,,,,,Resistant
+GSM809199,46.0,positive,negative,positive,,T3,,,,,Resistant
+GSM4171565,64.0,positive,negative,negative,3.0,T3,N1,LumB,,,Sensitive
+GSM809227,49.0,negative,negative,negative,,T2,,,,,Resistant
+GSM809209,43.0,negative,negative,negative,,T3,,,,,Resistant
+GSM505577,59.0,negative,positive,negative,3.0,T2,,,,,Resistant
+GSM505472,60.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM615109,58.8,negative,negative,negative,unknown,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.248,Resistant
+GSM615363,36.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.613,Resistant
+GSM615122,31.3,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.822,Sensitive
+GSM615803,58.0,negative,negative,negative,unknown,T4,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.24709103353867,Sensitive
+GSM505508,72.0,positive,positive,negative,1.0,T2,,,,,Resistant
+GSM809241,27.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508181,38.0,positive,positive,negative,3,T3,N0,,,,Resistant
+GSM615134,43.1,positive,positive,negative,1,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.696,Resistant
+GSM615749,47.0,positive,positive,negative,3,T1,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.70841889117043,Resistant
+GSM615202,42.0,negative,positive,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.453,Sensitive
+GSM615755,31.0,positive,positive,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.980150581793292,Resistant
+GSM508169,64.0,positive,positive,negative,3,T3,N1,,,,Resistant
+GSM505441,65.0,positive,negative,positive,3.0,T2,,,,,Resistant
+GSM615182,75.0,negative,negative,negative,3,T2,N0,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 7.439,Resistant
+GSM809188,40.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615320,40.0,negative,negative,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.350,Resistant
+GSM505576,50.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM4171495,51.0,positive,positive,negative,2.0,T3,N0,LumB,,,Resistant
+GSM505582,43.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM4171531,35.0,negative,negative,negative,3.0,T1,N0,Basal,,,Resistant
+GSM508019,73.0,negative,positive,negative,3,T3,N0,,,,Resistant
+GSM809187,56.0,positive,positive,positive,,T3,,,,,Resistant
+GSM505385,51.0,positive,negative,positive,3.0,T2,,,,,Resistant
+GSM809277,36.0,negative,negative,negative,,T2,,,,,Resistant
+GSM615677,46.0,negative,negative,negative,3,T3,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.06297056810404,Sensitive
+GSM809198,51.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615674,32.6,negative,negative,negative,3,T1,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.468172484599589,Resistant
+GSM615383,51.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.243,Sensitive
+GSM508018,48.0,negative,positive,positive,3,unknown,N1,,,,Resistant
+GSM615170,46.0,positive,positive,unknown,2,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.198,Resistant
+GSM508160,44.0,negative,negative,positive,unknown,T4,N1,,,,Resistant
+GSM615719,49.0,positive,positive,negative,1,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.1047227926078,Resistant
+GSM615357,53.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.744,Sensitive
+GSM505492,52.0,negative,negative,positive,,,,,,,Resistant
+GSM505595,56.0,positive,positive,negative,1.0,T3,,,,,Resistant
+GSM615660,40.7,negative,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.04996577686516,Sensitive
+GSM615378,41.0,negative,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.120,Resistant
+GSM508082,48.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM615178,38.6,negative,positive,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.936,Resistant
+GSM505546,70.0,negative,negative,positive,3.0,T2,,,,,Resistant
+GSM615821,64.0,positive,positive,negative,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.76522929500342,Resistant
+GSM615682,46.0,negative,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.69609856262834,Resistant
+GSM508186,53.0,positive,positive,negative,1,T2,N0,,,,Resistant
+GSM505533,50.0,negative,negative,negative,2.0,T2,,,,,Resistant
+GSM505558,65.0,negative,negative,negative,3.0,T3,,,,,Resistant
+GSM615277,50.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.587,Resistant
+GSM809195,58.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615820,42.0,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.21286789869952,Resistant
+GSM505496,64.0,negative,negative,negative,,T3,,,,,Sensitive
+GSM508171,55.0,negative,negative,positive,3,T2,N3,,,,Sensitive
+GSM615636,50.8,positive,positive,negative,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.48596851471595,Sensitive
+GSM505530,47.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM4171519,60.0,negative,negative,positive,2.0,T2,N1,LumA,,,Resistant
+GSM508076,47.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615189,65.0,negative,positive,negative,3,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.144,Resistant
+GSM505450,58.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM809273,63.0,negative,negative,negative,,T3,,,,,Resistant
+GSM615141,59.2,unknown,unknown,unknown,unknown,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.239,Resistant
+GSM615240,48.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.803,Sensitive
+GSM615397,57.0,negative,negative,negative,2,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.931,Sensitive
+GSM615361,64.0,positive,negative,negative,3,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.892,Resistant
+GSM615801,59.0,negative,negative,negative,2,T4,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.6694045174538,Resistant
+GSM615822,56.0,positive,negative,negative,unknown,T4,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.74332648870637,Sensitive
+GSM508119,68.0,positive,positive,negative,2,T0,N3,,,,Resistant
+GSM809224,63.0,negative,negative,negative,,T2,,,,,Resistant
+GSM508039,32.0,positive,negative,negative,3,T2,N2,,,,Resistant
+GSM615148,39.7,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.669,Resistant
+GSM505465,50.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615226,58.0,positive,negative,negative,1,T3,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.378,Resistant
+GSM505470,40.0,negative,negative,negative,,T3,,,,,Resistant
+GSM508148,50.0,negative,negative,positive,3,T3,N1,,,,Resistant
+GSM615680,48.4,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.93429158110883,Sensitive
+GSM508078,59.0,positive,positive,positive,3,T2,N0,,,,Resistant
+GSM809234,57.0,positive,negative,negative,,T3,,,,,Resistant
+GSM615395,64.0,positive,negative,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.062,Resistant
+GSM508125,42.0,positive,positive,negative,1,T2,N1,,,,Resistant
+GSM615405,58.0,negative,negative,negative,3,T4,N2,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.517,Resistant
+GSM508117,57.0,positive,positive,negative,3,T1,N2,,,,Resistant
+GSM505388,62.0,positive,positive,positive,3.0,T4,,,,,Resistant
+GSM508037,44.0,positive,positive,negative,unknown,T2,N2,,,,Sensitive
+GSM615259,62.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.775,Resistant
+GSM615805,63.0,negative,negative,negative,unknown,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.824093086926763,Resistant
+GSM809191,49.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615268,35.0,positive,negative,negative,1,T2,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.504,Resistant
+GSM4171558,41.0,positive,positive,positive,3.0,T4,N0,LumB,,,Resistant
+GSM508027,46.0,positive,positive,negative,1,T2,N3,,,,Resistant
+GSM809243,37.0,positive,negative,positive,,T3,,,,,Resistant
+GSM505363,59.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM615136,60.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.545,Resistant
+GSM2778772,,negative,negative,negative,,,,,,,Resistant
+GSM615106,51.1,negative,negative,negative,unknown,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.156,Resistant
+GSM508045,61.0,positive,positive,negative,3,T3,N2,,,,Resistant
+GSM505442,67.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM615726,58.0,positive,positive,negative,3,T4,N2,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.95687885010267,Resistant
+GSM508083,61.0,positive,positive,negative,1,T2,N0,,,,Resistant
+GSM615788,71.0,positive,positive,negative,3,T4,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.17796030116359,Resistant
+GSM615184,51.0,negative,positive,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 7.302,Resistant
+GSM615306,58.0,positive,positive,negative,2,T3,N2,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.818,Resistant
+GSM505459,62.0,negative,negative,negative,3.0,T4,,,,,Sensitive
+GSM505364,51.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505501,61.0,positive,positive,negative,,T3,,,,,Resistant
+GSM615747,42.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.04791238877481,Resistant
+GSM508135,37.0,positive,negative,positive,3,T4,N2,,,,Resistant
+GSM4171514,42.0,negative,negative,negative,3.0,T2,N1,LumB,,,Sensitive
+GSM615798,40.0,positive,positive,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.40862422997947,Sensitive
+GSM505390,56.0,positive,positive,positive,2.0,T2,,,,,Sensitive
+GSM508091,31.0,negative,negative,negative,3,T3,N1,,,,Resistant
+GSM615691,34.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.09993155373032,Resistant
+GSM615327,65.0,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.533,Resistant
+GSM4171530,65.0,negative,negative,negative,3.0,T2,N0,Basal,,,Resistant
+GSM809266,70.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM615133,51.4,positive,positive,negative,1,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.617,Resistant
+GSM505521,55.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM809265,54.0,positive,negative,negative,,T2,,,,,Resistant
+GSM809294,61.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM4171524,35.0,negative,negative,negative,3.0,T2,N1,Normal,,,Sensitive
+GSM508054,35.0,negative,negative,negative,3,T3,N1,,,,Resistant
+GSM508026,55.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM505547,45.0,positive,positive,negative,3.0,T4,,,,,Resistant
+GSM508142,39.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM615117,34.6,positive,positive,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.115,Resistant
+GSM4171562,62.0,positive,negative,negative,2.0,T2,N0,LumB,,,Resistant
+GSM505380,39.0,negative,negative,positive,3.0,T4,,,,,Resistant
+GSM615213,53.0,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.624,Sensitive
+GSM809200,48.0,negative,negative,positive,,T2,,,,,Resistant
+GSM505409,67.0,positive,negative,negative,3.0,T4,,,,,Resistant
+GSM615295,53.0,negative,negative,negative,3,T4,N3,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.856,Resistant
+GSM615111,50.4,negative,negative,negative,unknown,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.988,Resistant
+GSM505457,44.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM508028,45.0,positive,positive,negative,1,T1,N1,,,,Resistant
+GSM615337,46.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.182,Resistant
+GSM615262,42.0,positive,positive,negative,1,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.783,Resistant
+GSM508145,42.0,positive,positive,negative,unknown,T4,N2,,,,Resistant
+GSM615208,69.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.870,Resistant
+GSM615168,50.1,positive,positive,negative,unknown,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.361,Resistant
+GSM615217,52.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.645,Resistant
+GSM615172,59.8,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.587,Resistant
+GSM508041,66.0,positive,negative,negative,2,T1,N1,,,,Resistant
+GSM508110,42.0,positive,positive,negative,1,T3,N0,,,,Resistant
+GSM615728,45.0,positive,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.81724845995893,Resistant
+GSM508157,65.0,negative,negative,negative,unknown,T4,N0,,,,Resistant
+GSM505559,61.0,positive,positive,negative,3.0,T2,,,,,Sensitive
+GSM809289,48.0,positive,positive,positive,,T2,,,,,Sensitive
+GSM505342,59.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM508095,34.0,positive,positive,negative,2,T2,N2,,,,Resistant
+GSM505525,63.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM4171540,44.0,positive,positive,negative,3.0,T2,N0,Basal,,,Sensitive
+GSM615286,62.0,positive,negative,negative,2,T2,N3,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.159,Resistant
+GSM615787,46.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.722792607802875,Resistant
+GSM615267,42.0,positive,negative,negative,2,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.277,Resistant
+GSM809285,68.0,positive,negative,negative,,T2,,,,,Resistant
+GSM615824,46.0,negative,negative,negative,3,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.17590691307324,Sensitive
+GSM505471,65.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM505383,42.0,positive,negative,negative,3.0,T1,,,,,Resistant
+GSM615102,38.2,negative,negative,unknown,unknown,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.732,Resistant
+GSM505552,40.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM615298,40.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.990,Resistant
+GSM505494,46.0,positive,positive,positive,,T3,,,,,Resistant
+GSM505554,52.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM809215,33.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615727,24.0,negative,negative,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.77891854893908,Sensitive
+GSM615188,61.0,negative,negative,negative,2,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.717,Resistant
+GSM505458,55.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM508081,40.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615350,59.0,negative,positive,negative,3,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.281,Resistant
+GSM615744,48.0,negative,negative,negative,3,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.78507871321013,Sensitive
+GSM508049,42.0,negative,negative,negative,3,T4,N1,,,,Resistant
+GSM505404,73.0,positive,positive,positive,2.0,T2,,,,,Resistant
+GSM4171513,48.0,positive,positive,negative,3.0,T2,N0,LumA,,,Resistant
+GSM615344,58.0,negative,negative,negative,3,T2,N3,pam50_class: Normal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.377,Resistant
+GSM508107,61.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615673,34.1,positive,positive,negative,2,T3,N0,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.136892539356605,Resistant
+GSM505562,61.0,negative,negative,negative,3.0,T3,,,,,Sensitive
+GSM505534,66.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505474,71.0,positive,negative,negative,3.0,T4,,,,,Resistant
+GSM508147,40.0,positive,positive,negative,3,T3,N1,,,,Resistant
+GSM505497,41.0,negative,negative,negative,,T3,,,,,Resistant
+GSM809250,36.0,positive,positive,negative,,T3,,,,,Resistant
+GSM615714,54.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.84736481861739,Resistant
+GSM505430,42.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM505466,50.0,negative,negative,negative,3.0,T4,,,,,Sensitive
+GSM615671,38.6,negative,negative,negative,2,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.95893223819302,Resistant
+GSM615794,66.0,positive,positive,negative,2,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.35386721423682,Resistant
+GSM615633,36.7,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.36892539356605,Resistant
+GSM615796,48.0,positive,negative,negative,2,T4,N2,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.90759753593429,Resistant
+GSM615631,32.2,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 4.54757015742642,Resistant
+GSM2778780,,negative,negative,negative,,,,,,,Resistant
+GSM505605,49.0,positive,positive,negative,3.0,T4,,,,,Resistant
+GSM615750,27.0,positive,positive,negative,3,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.68925393566051,Resistant
+GSM508150,45.0,positive,negative,negative,unknown,T2,N0,,,,Sensitive
+GSM505588,36.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM505366,57.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615720,35.0,positive,positive,negative,3,T4,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.59548254620123,Resistant
+GSM505411,46.0,negative,negative,negative,3.0,T3,,,,,Sensitive
+GSM615771,39.0,negative,negative,negative,3,T3,N2,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.92607802874743,Resistant
+GSM615703,58.0,positive,negative,negative,3,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.13347022587269,Resistant
+GSM505581,47.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505574,72.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM615124,61.0,positive,positive,negative,2,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.162,Resistant
+GSM615192,51.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 7.326,Resistant
+GSM615326,57.0,positive,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.480,Resistant
+GSM615815,37.0,positive,positive,negative,2,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.81382614647502,Resistant
+GSM615806,44.0,negative,negative,negative,unknown,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.531143052703628,Resistant
+GSM615147,60.1,positive,positive,unknown,unknown,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.872,Resistant
+GSM508090,66.0,negative,negative,negative,3,T2,N0,,,,Resistant
+GSM615828,45.0,negative,negative,negative,1,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.08281998631075,Resistant
+GSM615732,24.0,positive,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.63175906913073,Resistant
+GSM615635,43.8,positive,positive,negative,3,T3,N3,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.97741273100616,Sensitive
+GSM4171525,69.0,negative,negative,positive,3.0,T2,N0,Her2,,,Sensitive
+GSM508144,59.0,negative,negative,negative,2,T4,N3,,,,Resistant
+GSM505556,45.0,positive,positive,negative,2.0,T4,,,,,Resistant
+GSM505374,47.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM615731,43.0,positive,positive,negative,2,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.4558521560575,Resistant
+GSM505401,53.0,negative,negative,positive,3.0,T3,,,,,Resistant
+GSM508016,49.0,positive,negative,negative,1,T1,N0,,,,Resistant
+GSM508138,58.0,negative,negative,negative,unknown,T4,N1,,,,Sensitive
+GSM505498,46.0,negative,negative,negative,,T3,,,,,Resistant
+GSM508187,56.0,positive,positive,negative,1,T3,N0,,,,Resistant
+GSM615643,65.1,negative,negative,positive,2,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.81587953456537,Resistant
+GSM615096,37.8,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.346,Resistant
+GSM4171547,51.0,positive,negative,negative,2.0,T2,N1,LumB,,,Sensitive
+GSM615807,41.0,positive,positive,negative,1,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.90965092402464,Resistant
+GSM615300,57.0,negative,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.884,Sensitive
+GSM615210,75.0,positive,negative,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.892,Resistant
+GSM615276,52.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.272,Resistant
+GSM615685,62.0,positive,positive,negative,3,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 7.35934291581109,Resistant
+GSM615132,47.6,positive,positive,unknown,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.574,Resistant
+GSM4171516,49.0,positive,negative,negative,3.0,T2,N0,LumB,,,Resistant
+GSM809267,51.0,negative,negative,positive,,T2,,,,,Resistant
+GSM508060,52.0,negative,negative,negative,2,T4,N2,,,,Resistant
+GSM505375,75.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM615191,37.0,negative,positive,negative,3,T1,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.341,Sensitive
+GSM508035,58.0,negative,negative,negative,2,T2,N1,,,,Sensitive
+GSM615209,56.0,negative,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.133,Sensitive
+GSM615301,62.0,negative,negative,negative,3,T4,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.552,Resistant
+GSM809238,56.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM505483,57.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM615785,51.0,negative,negative,negative,2,T4,N2,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.783025325119781,Resistant
+GSM505389,62.0,positive,positive,positive,3.0,T4,,,,,Resistant
+GSM505510,46.0,positive,negative,negative,3.0,T4,,,,,Resistant
+GSM615185,65.0,negative,negative,negative,3,T1,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 5.591,Resistant
+GSM615661,62.3,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.42710472279261,Resistant
+GSM505520,42.0,positive,positive,negative,1.0,T2,,,,,Resistant
+GSM615244,51.0,negative,negative,negative,3,T1,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.063,Resistant
+GSM615307,32.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.817,Sensitive
+GSM508175,54.0,positive,negative,negative,2,T4,N1,,,,Resistant
+GSM615121,36.5,positive,negative,unknown,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.222,Resistant
+GSM505392,71.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM505580,46.0,negative,negative,negative,2.0,T2,,,,,Sensitive
+GSM615239,46.0,positive,negative,negative,3,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.110,Resistant
+GSM615308,51.0,positive,positive,negative,3,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.754,Resistant
+GSM508173,59.0,negative,negative,negative,3,T2,N1,,,,Sensitive
+GSM508046,37.0,positive,positive,negative,3,T4,N2,,,,Resistant
+GSM809201,46.0,positive,negative,negative,,T2,,,,,Resistant
+GSM809235,57.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508109,45.0,positive,positive,positive,1,T2,N0,,,,Resistant
+GSM615316,67.0,positive,negative,negative,2,T1,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.884,Resistant
+GSM615394,62.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.194,Sensitive
+GSM508113,31.0,negative,negative,negative,3,T4,N0,,,,Resistant
+GSM508161,29.0,negative,negative,negative,unknown,T4,N1,,,,Resistant
+GSM615786,55.0,positive,positive,negative,3,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.60438056125941,Resistant
+GSM615112,63.2,negative,negative,negative,unknown,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.832,Resistant
+GSM615220,31.0,positive,positive,negative,3,T4,N2,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.966,Resistant
+GSM615353,46.0,positive,positive,negative,3,T1,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.670,Sensitive
+GSM615708,64.0,positive,negative,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.95824777549624,Resistant
+GSM615265,63.0,negative,negative,negative,3,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.685,Resistant
+GSM508189,49.0,positive,positive,negative,2,T4,N0,,,,Resistant
+GSM508030,50.0,positive,positive,negative,2,T4,N0,,,,Resistant
+GSM615779,56.0,positive,positive,negative,2,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.00273785078713,Sensitive
+GSM4171504,49.0,positive,positive,negative,2.0,T1,N0,LumB,,,Resistant
+GSM4171543,45.0,negative,negative,negative,3.0,T2,N1,Normal,,,Resistant
+GSM809260,48.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615637,34.1,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.94455852156057,Sensitive
+GSM4171512,51.0,positive,positive,negative,2.0,T1,N1,LumA,,,Resistant
+GSM508154,61.0,negative,negative,negative,3,T2,N0,,,,Resistant
+GSM615738,61.0,positive,positive,negative,2,T4,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.37645448323066,Resistant
+GSM615752,64.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.34702258726899,Resistant
+GSM508143,48.0,positive,positive,negative,2,T4,N1,,,,Resistant
+GSM615127,63.3,positive,negative,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.126,Resistant
+GSM508075,44.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM615114,52.8,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.104,Resistant
+GSM508104,46.0,negative,negative,negative,3,T2,N0,,,,Sensitive
+GSM615722,43.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.01711156741958,Resistant
+GSM615130,44.8,positive,positive,negative,2,T4,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.019,Resistant
+GSM615818,61.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.93223819301848,Resistant
+GSM505359,48.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM809249,54.0,positive,positive,positive,,T3,,,,,Resistant
+GSM508063,57.0,negative,negative,negative,unknown,T3,N1,,,,Resistant
+GSM508024,46.0,positive,positive,negative,unknown,T4,N1,,,,Resistant
+GSM615724,59.0,positive,positive,negative,3,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.85284052019165,Sensitive
+GSM615219,38.0,positive,negative,negative,3,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.482,Resistant
+GSM809229,53.0,positive,positive,negative,,T2,,,,,Sensitive
+GSM615684,61.1,negative,positive,negative,3,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.12046543463381,Resistant
+GSM615175,42.5,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.527,Sensitive
+GSM508162,55.0,negative,negative,negative,unknown,T3,N1,,,,Resistant
+GSM615716,33.0,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.48870636550308,Resistant
+GSM508172,44.0,positive,negative,negative,2,T2,N0,,,,Resistant
+GSM508087,59.0,negative,negative,negative,3,T2,N0,,,,Sensitive
+GSM4171577,55.0,positive,negative,negative,2.0,T3,N0,LumB,,,Resistant
+GSM4171541,45.0,negative,negative,negative,3.0,T2,N0,Basal,,,Sensitive
+GSM615718,54.0,positive,negative,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.83709787816564,Resistant
+GSM615819,39.0,positive,negative,negative,2,T2,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.00616016427105,Resistant
+GSM505563,51.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM505436,48.0,positive,positive,negative,3.0,T4,,,,,Sensitive
+GSM505435,71.0,negative,negative,positive,2.0,T1,,,,,Sensitive
+GSM615215,44.0,negative,negative,negative,3,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.251,Sensitive
+GSM508166,44.0,negative,positive,negative,1,T3,N1,,,,Resistant
+GSM4171511,43.0,positive,positive,negative,3.0,T4,N1,LumB,,,Sensitive
+GSM615229,48.0,negative,negative,negative,2,T4,N3,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.890,Resistant
+GSM505477,48.0,positive,negative,negative,2.0,T3,,,,,Resistant
+GSM615187,66.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.834,Resistant
+GSM505447,51.0,negative,negative,positive,3.0,T4,,,,,Sensitive
+GSM615319,63.0,negative,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.278,Resistant
+GSM505415,50.0,positive,positive,negative,3.0,T3,,,,,Resistant
+GSM615662,43.4,positive,positive,negative,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.89733059548255,Resistant
+GSM615330,65.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.797,Resistant
+GSM615313,50.0,positive,positive,negative,1,T1,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.617,Resistant
+GSM615223,57.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.624,Resistant
+GSM615663,52.8,positive,positive,negative,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.435318275154,Sensitive
+GSM809214,42.0,negative,negative,negative,,T2,,,,,Resistant
+GSM809288,45.0,positive,positive,negative,,T2,,,,,Resistant
+GSM809222,72.0,positive,negative,negative,,T2,,,,,Resistant
+GSM615271,44.0,positive,positive,negative,2,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.881,Resistant
+GSM505346,62.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM508034,43.0,positive,positive,negative,3,T4,N1,,,,Resistant
+GSM809282,39.0,negative,negative,positive,,T2,,,,,Resistant
+GSM615251,44.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.754,Resistant
+GSM615669,47.4,positive,negative,negative,3,T3,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.46817248459959,Sensitive
+GSM505560,66.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM508048,41.0,positive,positive,negative,1,T2,N1,,,,Resistant
+GSM615120,53.2,positive,positive,negative,1,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.706,Resistant
+GSM615343,30.0,positive,positive,negative,3,T1,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.845,Resistant
+GSM615211,35.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.142,Sensitive
+GSM505481,46.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM615699,47.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.85626283367557,Resistant
+GSM615297,58.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.341,Resistant
+GSM505489,35.0,negative,negative,negative,,T3,,,,,Resistant
+GSM505387,55.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM615145,55.7,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.898,Resistant
+GSM615257,59.0,positive,positive,negative,1,T3,N2,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.540,Resistant
+GSM615360,53.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.979,Resistant
+GSM508015,39.0,positive,negative,negative,2,T2,N2,,,,Resistant
+GSM809244,39.0,positive,negative,negative,,T3,,,,,Resistant
+GSM615321,50.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.516,Resistant
+GSM809246,50.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM615231,49.0,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.528,Resistant
+GSM615108,46.6,positive,positive,positive,3,T3,N3,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.597,Resistant
+GSM4171538,50.0,positive,positive,negative,2.0,T2,N1,LumB,,,Resistant
+GSM508043,58.0,negative,negative,negative,3,T4,N2,,,,Resistant
+GSM615157,45.9,positive,unknown,negative,2,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.045,Resistant
+GSM505398,45.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM505376,58.0,negative,negative,positive,3.0,T4,,,,,Resistant
+GSM505371,46.0,positive,positive,negative,2.0,T1,,,,,Resistant
+GSM4171550,41.0,positive,positive,negative,2.0,T2,N1,LumA,,,Sensitive
+GSM4171498,63.0,negative,negative,positive,3.0,T3,N1,Her2,,,Resistant
+GSM615140,39.4,negative,negative,positive,2,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.032,Sensitive
+GSM809239,68.0,negative,negative,negative,,T2,,,,,Resistant
+GSM505407,79.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM4171556,48.0,positive,positive,negative,3.0,T2,N0,LumA,,,Resistant
+GSM615162,42.3,positive,positive,negative,1,T3,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.508,Resistant
+GSM615227,52.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.183,Resistant
+GSM4171520,67.0,positive,negative,positive,1.0,T3,N0,LumA,,,Resistant
+GSM505524,44.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505467,46.0,negative,negative,negative,2.0,T2,,,,,Sensitive
+GSM615354,46.0,negative,negative,negative,2,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.415,Sensitive
+GSM809205,40.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615390,46.0,negative,negative,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.487,Resistant
+GSM505505,50.0,negative,positive,positive,3.0,T2,,,,,Resistant
+GSM615729,53.0,positive,positive,negative,3,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.94387405886379,Resistant
+GSM508073,60.0,positive,positive,negative,3,T2,N0,,,,Resistant
+GSM615825,42.0,positive,positive,negative,3,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.45037645448323,Resistant
+GSM615384,57.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.284,Resistant
+GSM505337,38.0,positive,negative,negative,3.0,T3,,,,,Resistant
+GSM615325,43.0,negative,negative,negative,3,T1,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.146,Sensitive
+GSM505564,49.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM505347,67.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615379,62.0,negative,negative,negative,3,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.144,Sensitive
+GSM615352,73.0,positive,positive,negative,1,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.160,Resistant
+GSM505370,35.0,negative,negative,negative,3.0,T1,,,,,Sensitive
+GSM615241,63.0,positive,negative,negative,2,T4,N2,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.052,Resistant
+GSM615657,43.9,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.424366872005476,Resistant
+GSM615296,46.0,positive,positive,negative,2,T4,N3,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.105,Resistant
+GSM508061,42.0,negative,positive,negative,unknown,T3,N0,,,,Resistant
+GSM508103,46.0,negative,negative,negative,1,T2,N0,,,,Resistant
+GSM505461,47.0,positive,negative,positive,3.0,T2,,,,,Resistant
+GSM615116,54.2,negative,negative,positive,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.964,Resistant
+GSM809258,59.0,positive,positive,positive,,T2,,,,,Resistant
+GSM615195,29.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.764,Resistant
+GSM508174,49.0,negative,negative,negative,3,T2,N1,,,,Sensitive
+GSM4171501,51.0,positive,positive,negative,2.0,T2,N0,LumA,,,Resistant
+GSM4171559,38.0,negative,negative,positive,2.0,T2,N1,LumB,,,Resistant
+GSM505555,45.0,negative,negative,positive,3.0,T2,,,,,Resistant
+GSM4171557,43.0,positive,positive,negative,2.0,T2,N0,LumB,,,Resistant
+GSM615181,49.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 7.395,Sensitive
+GSM615816,60.0,positive,positive,negative,1,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.38124572210815,Resistant
+GSM505432,64.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM505509,45.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615725,33.0,positive,negative,negative,3,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.03353867214237,Resistant
+GSM615655,26.1,negative,negative,unknown,unknown,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.24298425735797,Resistant
+GSM615364,34.0,negative,negative,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.541,Resistant
+GSM4171496,47.0,negative,negative,negative,2.0,T4,N0,Basal,,,Resistant
+GSM615403,50.0,negative,negative,negative,2,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.265,Resistant
+GSM508139,58.0,negative,negative,negative,3,T2,N3,,,,Resistant
+GSM615200,49.0,positive,negative,negative,3,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.452,Resistant
+GSM508183,48.0,negative,positive,negative,2,T1,N0,,,,Resistant
+GSM4171551,39.0,positive,positive,negative,2.0,T3,N1,LumB,,,Resistant
+GSM615369,50.0,negative,negative,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.900,Resistant
+GSM508014,45.0,negative,negative,positive,3,T2,N0,,,,Resistant
+GSM505344,44.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM615190,37.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 7.127,Resistant
+GSM505571,30.0,positive,positive,negative,3.0,T1,,,,,Resistant
+GSM615711,34.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.1533196440794,Resistant
+GSM2778784,,negative,negative,negative,,,,,,,Sensitive
+GSM508031,50.0,positive,positive,negative,2,T2,N3,,,,Resistant
+GSM615653,55.9,positive,positive,negative,2,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.53388090349076,Resistant
+GSM615225,60.0,negative,negative,negative,3,T4,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.329,Resistant
+GSM505382,42.0,positive,negative,negative,3.0,T1,,,,,Resistant
+GSM508074,56.0,negative,negative,negative,3,T3,N0,,,,Resistant
+GSM615212,48.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.684,Sensitive
+GSM505417,51.0,negative,negative,positive,3.0,T3,,,,,Resistant
+GSM809281,60.0,negative,negative,positive,,T2,,,,,Resistant
+GSM4171573,66.0,positive,positive,negative,2.0,T2,N1,LumA,,,Resistant
+GSM508021,42.0,positive,positive,negative,3,T2,N1,,,,Resistant
+GSM505335,42.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM615748,60.0,positive,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.82067077344285,Sensitive
+GSM809286,49.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508068,68.0,negative,negative,negative,unknown,T4,N2,,,,Resistant
+GSM615097,45.8,positive,positive,negative,2,T3,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.552,Resistant
+GSM809279,48.0,positive,positive,negative,,T3,,,,,Resistant
+GSM615647,45.4,unknown,unknown,unknown,1,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.51745379876797,Resistant
+GSM508115,71.0,negative,negative,positive,2,T1,N1,,,,Sensitive
+GSM505361,52.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM4171553,45.0,positive,negative,negative,3.0,T3,N1,LumB,,,Resistant
+GSM809189,57.0,positive,negative,negative,,T3,,,,,Resistant
+GSM615233,72.0,positive,positive,negative,1,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.791,Resistant
+GSM505604,45.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM505476,61.0,negative,negative,negative,2.0,T2,,,,,Resistant
+GSM2778785,,negative,negative,negative,,,,,,,Sensitive
+GSM505518,56.0,positive,positive,negative,3.0,T0,,,,,Resistant
+GSM615776,45.0,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.05407255304586,Resistant
+GSM615196,61.0,positive,positive,negative,3,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.467,Resistant
+GSM615400,73.0,positive,negative,negative,2,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.746,Resistant
+GSM508179,39.0,negative,negative,negative,3,T3,N1,,,,Sensitive
+GSM505591,49.0,positive,positive,negative,3.0,T3,,,,,Resistant
+GSM505394,52.0,positive,positive,positive,3.0,T2,,,,,Resistant
+GSM615333,48.0,negative,positive,negative,2,T1,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.234,Resistant
+GSM809213,46.0,positive,positive,negative,,T2,,,,,Sensitive
+GSM505327,57.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615375,75.0,negative,positive,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.240,Sensitive
+GSM505584,51.0,negative,negative,negative,3.0,T4,,,,,Sensitive
+GSM508044,52.0,positive,positive,negative,2,T4,N1,,,,Resistant
+GSM505502,46.0,positive,positive,negative,,T3,,,,,Resistant
+GSM4171546,42.0,negative,negative,negative,3.0,T3,N1,Normal,,,Sensitive
+GSM505561,48.0,negative,positive,negative,2.0,T1,,,,,Resistant
+GSM505453,40.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615650,60.1,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.76933607118412,Resistant
+GSM615324,49.0,negative,negative,negative,3,T1,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.456,Sensitive
+GSM508131,53.0,negative,negative,negative,3,T2,N0,,,,Resistant
+GSM508129,36.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM615238,44.0,positive,negative,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.233,Resistant
+GSM508101,66.0,positive,positive,positive,2,T2,N0,,,,Resistant
+GSM615342,43.0,negative,negative,negative,2,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.958,Resistant
+GSM505549,50.0,positive,positive,negative,1.0,T1,,,,,Resistant
+GSM4171532,33.0,positive,positive,positive,3.0,T1,N1,LumA,,,Resistant
+GSM505542,55.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM615338,57.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.064,Sensitive
+GSM505543,68.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM615128,50.4,positive,positive,negative,unknown,T4,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.344,Resistant
+GSM615287,50.0,negative,negative,negative,2,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.717,Resistant
+GSM809291,37.0,positive,negative,positive,,T2,,,,,Resistant
+GSM508040,54.0,negative,negative,positive,2,T4,N2,,,,Resistant
+GSM505328,69.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615143,42.7,negative,positive,unknown,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.902,Sensitive
+GSM809283,56.0,positive,positive,negative,,T2,,,,,Resistant
+GSM505353,68.0,positive,positive,negative,1.0,T2,,,,,Resistant
+GSM505460,52.0,negative,positive,negative,3.0,T2,,,,,Resistant
+GSM505446,35.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM4171575,59.0,positive,positive,negative,2.0,T2,N0,LumA,,,Resistant
+GSM615689,40.0,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.02600958247776,Resistant
+GSM2778768,,negative,negative,negative,,,,,,,Resistant
+GSM615305,39.0,positive,negative,negative,2,T2,N3,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.648,Resistant
+GSM809210,49.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615144,61.8,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.261,Resistant
+GSM505557,41.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615664,44.4,positive,positive,negative,3,T3,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.03764544832307,Resistant
+GSM809220,58.0,negative,negative,negative,,T2,,,,,Resistant
+GSM615799,42.0,positive,positive,negative,unknown,T4,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.4798083504449,Resistant
+GSM2778773,,negative,negative,negative,,,,,,,Resistant
+GSM615781,63.0,positive,positive,negative,2,T3,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.08555783709788,Resistant
+GSM505532,44.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM505516,39.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM615808,69.0,positive,positive,negative,3,T4,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.13757700205339,Resistant
+GSM508067,49.0,positive,positive,negative,3,T4,N0,,,,Resistant
+GSM809237,63.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM508092,44.0,positive,positive,negative,3,T0,N2,,,,Resistant
+GSM615704,58.0,positive,positive,negative,1,T1,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.46475017111567,Resistant
+GSM505493,,negative,negative,negative,,,,,,,Resistant
+GSM615246,26.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.542,Resistant
+GSM505535,59.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM505405,73.0,positive,positive,positive,2.0,T2,,,,,Resistant
+GSM615639,43.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.44284736481862,Sensitive
+GSM809218,43.0,positive,positive,negative,,T2,,,,,Resistant
+GSM505455,51.0,positive,negative,negative,3.0,T3,,,,,Sensitive
+GSM4171545,61.0,positive,positive,negative,3.0,T2,N0,LumB,,,Resistant
+GSM615812,51.0,negative,negative,negative,unknown,T4,N2,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.17932922655715,Resistant
+GSM508182,36.0,negative,negative,negative,3,T2,N0,,,,Resistant
+GSM809287,55.0,positive,negative,negative,,T2,,,,,Resistant
+GSM508153,37.0,negative,negative,negative,unknown,T3,N2,,,,Resistant
+GSM4171579,45.0,positive,positive,negative,1.0,T2,N0,LumA,,,Resistant
+GSM615098,40.7,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.503,Resistant
+GSM505596,49.0,positive,positive,negative,2.0,T4,,,,,Resistant
+GSM508114,46.0,negative,negative,positive,3,T3,N2,,,,Sensitive
+GSM615715,50.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.8227241615332,Resistant
+GSM505413,51.0,negative,negative,negative,2.0,T2,,,,,Resistant
+GSM615688,38.0,positive,negative,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.60917180013689,Resistant
+GSM615206,47.0,positive,positive,negative,3,T3,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.829,Resistant
+GSM615701,53.0,positive,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.30047912388775,Resistant
+GSM615199,38.0,positive,positive,negative,2,T2,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.535,Resistant
+GSM615131,61.9,positive,positive,unknown,unknown,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.883,Resistant
+GSM508168,67.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615723,41.0,positive,positive,negative,3,T4,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.97330595482546,Sensitive
+GSM615341,47.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.223,Resistant
+GSM615371,67.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.711,Sensitive
+GSM809225,61.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM508140,66.0,positive,positive,negative,2,T2,N2,,,,Resistant
+GSM508127,65.0,positive,positive,negative,3,T2,N2,,,,Resistant
+GSM4171584,32.0,negative,negative,negative,3.0,T2,N0,Normal,,,Sensitive
+GSM4171518,45.0,positive,positive,negative,2.0,T2,N1,LumB,,,Resistant
+GSM505540,57.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM505384,51.0,positive,negative,positive,3.0,T2,,,,,Resistant
+GSM615129,53.5,positive,positive,negative,unknown,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.954,Resistant
+GSM2778775,,negative,negative,negative,,,,,,,Sensitive
+GSM615778,38.0,positive,positive,negative,3,T3,N0,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.02190280629706,Resistant
+GSM615100,35.5,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.580,Resistant
+GSM615207,42.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.793,Resistant
+GSM615123,53.1,positive,positive,negative,3,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.304,Sensitive
+GSM2778781,,negative,negative,negative,,,,,,,Resistant
+GSM615135,58.9,negative,negative,negative,3,T2,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.841,Resistant
+GSM615317,47.0,negative,negative,negative,3,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.700,Resistant
+GSM615151,44.6,negative,negative,negative,2,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 0.914,Resistant
+GSM615814,67.0,positive,positive,negative,2,T2,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.66872005475702,Resistant
+GSM615382,59.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.142,Resistant
+GSM809264,57.0,negative,negative,positive,,T2,,,,,Resistant
+GSM615264,45.0,negative,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.732,Sensitive
+GSM615283,57.0,positive,negative,negative,2,T2,N3,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.187,Resistant
+GSM615336,49.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.261,Sensitive
+GSM615380,40.0,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.170,Resistant
+GSM4171510,43.0,positive,positive,negative,3.0,T2,N1,LumA,,,Resistant
+GSM615368,28.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.728,Resistant
+GSM809298,61.0,positive,negative,negative,,T1,,,,,Sensitive
+GSM508077,45.0,positive,positive,negative,2,T2,unknown,,,,Resistant
+GSM615753,46.0,positive,positive,negative,3,T4,N3,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.44010951403149,Resistant
+GSM615659,59.5,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.41889117043121,Resistant
+GSM505412,58.0,positive,negative,negative,2.0,T3,,,,,Resistant
+GSM505400,53.0,negative,negative,positive,3.0,T3,,,,,Resistant
+GSM4171563,60.0,positive,positive,negative,2.0,T4,N1,LumB,,,Sensitive
+GSM505587,52.0,positive,positive,negative,1.0,T2,,,,,Resistant
+GSM615282,60.0,positive,negative,negative,2,T4,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.009,Resistant
+GSM505523,35.0,positive,negative,negative,1.0,T2,,,,,Resistant
+GSM615270,38.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.715,Sensitive
+GSM505427,67.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM615695,72.0,positive,positive,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.37713894592745,Sensitive
+GSM508108,66.0,positive,positive,negative,1,T1,N1,,,,Resistant
+GSM615322,52.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.799,Resistant
+GSM615275,60.0,negative,negative,negative,2,T4,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.396,Resistant
+GSM809259,48.0,positive,positive,negative,,T2,,,,,Resistant
+GSM505444,42.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM505349,49.0,negative,negative,positive,3.0,T4,,,,,Sensitive
+GSM505421,60.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM615284,50.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.842,Sensitive
+GSM505545,32.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM615658,50.3,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.48459958932238,Sensitive
+GSM505469,52.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM2778779,,negative,negative,negative,,,,,,,Sensitive
+GSM505490,42.0,negative,negative,negative,,T4,,,,,Resistant
+GSM505373,54.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM809186,67.0,negative,negative,negative,,T3,,,,,Resistant
+GSM505348,38.0,positive,positive,negative,3.0,T3,,,,,Resistant
+GSM505355,31.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615340,50.0,positive,positive,negative,3,T3,N2,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.094,Resistant
+GSM615401,71.0,positive,negative,negative,3,T4,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.511,Resistant
+GSM4171572,46.0,negative,negative,negative,3.0,T2,N0,Basal,,,Sensitive
+GSM505488,73.0,positive,negative,negative,2.0,T4,,,,,Resistant
+GSM615823,45.0,negative,negative,negative,3,T3,N1,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.29979466119096,Resistant
+GSM505334,50.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM508137,53.0,negative,negative,negative,unknown,T4,N0,,,,Sensitive
+GSM615679,42.6,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.92470910335387,Resistant
+GSM508013,55.0,positive,positive,negative,2,T3,N0,,,,Resistant
+GSM505491,50.0,negative,negative,negative,3.0,T1,,,,,Resistant
+GSM615795,39.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.818617385352498,Resistant
+GSM505529,50.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM4171548,55.0,positive,positive,negative,2.0,T4,N1,LumB,,,Resistant
+GSM615278,47.0,positive,positive,negative,3,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.250,Resistant
+GSM615203,73.0,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.505,Resistant
+GSM508065,56.0,positive,negative,negative,unknown,T4,N2,,,,Resistant
+GSM505514,44.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM809192,55.0,positive,negative,positive,,T2,,,,,Sensitive
+GSM508155,61.0,positive,positive,negative,3,T2,N2,,,,Resistant
+GSM2778770,,negative,negative,negative,,,,,,,Resistant
+GSM505567,58.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM508051,62.0,positive,positive,negative,3,T4,N2,,,,Resistant
+GSM505473,62.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM615773,58.0,negative,negative,negative,2,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.94455852156057,Sensitive
+GSM615404,65.0,positive,positive,negative,3,T2,N2,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.198,Resistant
+GSM505507,49.0,negative,negative,positive,3.0,T1,,,,,Sensitive
+GSM4171521,58.0,negative,negative,negative,3.0,T4,N1,Basal,,,Resistant
+GSM615126,43.6,positive,positive,negative,3,T4,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.800,Resistant
+GSM508053,69.0,positive,positive,negative,3,T4,N1,,,,Resistant
+GSM508100,37.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM809293,56.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508072,49.0,negative,negative,positive,3,T2,N0,,,,Resistant
+GSM615385,37.0,negative,negative,negative,2,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.128,Resistant
+GSM615717,45.0,positive,positive,negative,3,T3,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.66392881587953,Resistant
+GSM615235,67.0,positive,negative,negative,3,T4,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.887,Resistant
+GSM505397,54.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM615672,49.6,negative,negative,negative,unknown,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.86105407255305,Sensitive
+GSM505573,64.0,negative,negative,negative,2.0,T2,,,,,Resistant
+GSM615159,44.7,negative,positive,unknown,unknown,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.692,Resistant
+GSM4171509,39.0,positive,positive,negative,2.0,T2,N0,LumA,,,Resistant
+GSM615646,51.5,positive,positive,negative,2,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.68720054757016,Resistant
+GSM505449,41.0,positive,positive,negative,3.0,T3,,,,,Sensitive
+GSM615269,40.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.283,Resistant
+GSM508064,61.0,negative,negative,positive,unknown,T2,N0,,,,Resistant
+GSM615372,39.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.695,Resistant
+GSM615692,59.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.14236824093087,Resistant
+GSM505367,39.0,positive,positive,positive,3.0,T4,,,,,Resistant
+GSM505506,42.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505478,40.0,negative,negative,negative,3.0,T1,,,,,Sensitive
+GSM505377,58.0,negative,negative,positive,3.0,T4,,,,,Resistant
+GSM508164,48.0,positive,positive,positive,3,T3,N1,,,,Sensitive
+GSM505486,50.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615810,37.0,positive,positive,negative,3,T4,N2,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.13552361396304,Resistant
+GSM508163,58.0,negative,negative,negative,3,T4,N2,,,,Resistant
+GSM505408,67.0,positive,negative,negative,3.0,T4,,,,,Resistant
+GSM809280,60.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM508185,53.0,positive,positive,negative,2,T2,N1,,,,Resistant
+GSM809253,54.0,positive,positive,negative,,T2,,,,,Sensitive
+GSM809242,58.0,positive,negative,negative,,T2,,,,,Resistant
+GSM505372,38.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM505431,65.0,positive,negative,positive,3.0,T2,,,,,Resistant
+GSM615349,50.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.333,Resistant
+GSM508056,40.0,negative,negative,negative,3,T3,N1,,,,Resistant
+GSM615272,63.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.775,Resistant
+GSM615709,27.0,positive,negative,negative,3,T3,N2,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.80219028062971,Resistant
+GSM615314,71.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.264,Resistant
+GSM508152,49.0,negative,negative,negative,3,T3,N0,,,,Sensitive
+GSM508066,34.0,negative,negative,negative,unknown,T4,N1,,,,Resistant
+GSM505448,40.0,positive,positive,negative,3.0,T1,,,,,Resistant
+GSM2778786,,negative,negative,negative,,,,,,,Sensitive
+GSM615266,60.0,positive,positive,negative,2,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.518,Resistant
+GSM508170,53.0,negative,negative,negative,2,T2,N1,,,,Sensitive
+GSM505479,46.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM615224,52.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.597,Resistant
+GSM615740,42.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.31895961670089,Resistant
+GSM4171508,54.0,negative,negative,positive,3.0,T2,N0,LumB,,,Resistant
+GSM615248,42.0,positive,positive,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.214,Resistant
+GSM508022,45.0,negative,negative,negative,3,T3,N1,,,,Resistant
+GSM505575,33.0,negative,negative,negative,3.0,T3,,,,,Resistant
+GSM615367,49.0,positive,positive,negative,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.517,Resistant
+GSM505585,53.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615113,42.8,negative,negative,negative,unknown,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.307,Resistant
+GSM615693,36.0,negative,positive,negative,3,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.72553045859001,Resistant
+GSM615791,46.0,positive,positive,negative,unknown,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.12320328542094,Resistant
+GSM615652,41.3,positive,positive,negative,3,T3,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.44626967830253,Resistant
+GSM615721,60.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.93497604380561,Resistant
+GSM508050,53.0,positive,negative,negative,2,T4,N2,,,,Resistant
+GSM615697,52.0,positive,positive,negative,3,T2,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.07529089664613,Resistant
+GSM809232,68.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM615152,44.0,unknown,unknown,unknown,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.798,Resistant
+GSM508188,50.0,negative,negative,negative,2,T2,N0,,,,Resistant
+GSM4171539,63.0,positive,positive,negative,2.0,T2,N1,LumB,,,Resistant
+GSM508128,47.0,positive,positive,negative,2,T3,N1,,,,Resistant
+GSM615346,42.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.306,Resistant
+GSM4171581,64.0,positive,positive,negative,,T2,N0,LumA,,,Resistant
+GSM508069,36.0,negative,negative,negative,unknown,T3,N2,,,,Resistant
+GSM615351,53.0,positive,positive,negative,1,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.393,Resistant
+GSM615826,44.0,negative,positive,negative,1,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.1813826146475,Resistant
+GSM615164,42.1,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.432,Sensitive
+GSM505379,53.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505566,57.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM615774,59.0,positive,negative,negative,2,T4,N2,pam50_class: Her2,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.492813141683778,Resistant
+GSM809284,40.0,positive,positive,negative,,T2,,,,,Resistant
+GSM508025,50.0,negative,negative,negative,3,T1,N1,,,,Resistant
+GSM4171567,73.0,negative,negative,positive,3.0,T2,N1,Basal,,,Resistant
+GSM4171502,55.0,positive,positive,negative,2.0,T3,N1,LumB,,,Resistant
+GSM809217,56.0,positive,negative,negative,,T2,,,,,Resistant
+GSM505340,54.0,negative,negative,positive,3.0,T2,,,,,Resistant
+GSM508059,36.0,positive,positive,negative,unknown,T3,N0,,,,Resistant
+GSM505480,47.0,positive,positive,negative,2.0,T4,,,,,Resistant
+GSM809233,47.0,positive,negative,negative,,T2,,,,,Resistant
+GSM505422,65.0,positive,negative,negative,2.0,T4,,,,,Resistant
+GSM505351,50.0,negative,negative,negative,3.0,T3,,,,,Sensitive
+GSM505345,65.0,negative,negative,negative,3.0,T1,,,,,Resistant
+GSM615737,50.0,positive,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.57357973990418,Sensitive
+GSM615797,52.0,positive,positive,negative,2,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.4798083504449,Resistant
+GSM809254,47.0,positive,positive,negative,,T2,,,,,Resistant
+GSM615302,55.0,positive,negative,negative,2,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.851,Resistant
+GSM615804,35.0,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.12662559890486,Resistant
+GSM505445,45.0,negative,negative,positive,3.0,T4,,,,,Sensitive
+GSM615167,34.4,negative,negative,negative,2,T2,N2,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.133,Sensitive
+GSM4171561,70.0,positive,positive,negative,3.0,T3,N0,LumA,,,Resistant
+GSM615730,47.0,positive,negative,negative,3,T4,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.27310061601643,Resistant
+GSM4171583,43.0,positive,negative,positive,2.0,T2,N0,LumB,,,Resistant
+GSM505602,58.0,positive,positive,negative,3.0,T4,,,,,Resistant
+GSM615780,39.0,negative,negative,negative,3,T3,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.36755646817248,Sensitive
+GSM809252,43.0,positive,positive,positive,,T2,,,,,Resistant
+GSM809203,52.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM615782,59.0,positive,negative,negative,3,T3,N2,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.87268993839836,Sensitive
+GSM508151,64.0,negative,negative,positive,unknown,T2,N0,,,,Sensitive
+GSM505485,41.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM809193,45.0,positive,negative,positive,,T3,,,,,Resistant
+GSM615107,37.8,negative,negative,negative,unknown,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.370,Resistant
+GSM2778774,,negative,negative,negative,,,,,,,Resistant
+GSM615285,44.0,positive,positive,negative,3,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.368,Resistant
+GSM615174,42.1,positive,positive,negative,3,T2,N2,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.478,Resistant
+GSM505583,53.0,negative,negative,negative,3.0,T2,,,,,Sensitive
+GSM4171552,54.0,positive,positive,positive,2.0,T2,N1,LumA,,,Sensitive
+GSM505378,53.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615358,69.0,positive,negative,negative,2,T4,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.076,Resistant
+GSM809231,28.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM505512,26.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615194,61.0,negative,positive,negative,3,T1,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.519,Sensitive
+GSM505360,52.0,negative,negative,negative,3.0,T3,,,,,Sensitive
+GSM505517,59.0,positive,positive,negative,1.0,T3,,,,,Resistant
+GSM2778776,,negative,negative,negative,,,,,,,Resistant
+GSM505352,75.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM505437,51.0,negative,negative,positive,3.0,T4,,,,,Sensitive
+GSM505601,53.0,positive,negative,negative,1.0,T2,,,,,Resistant
+GSM615398,49.0,positive,positive,negative,3,T4,N2,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.192,Resistant
+GSM615690,45.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.40657084188912,Resistant
+GSM615741,44.0,positive,negative,negative,3,T2,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.63175906913073,Resistant
+GSM615399,51.0,positive,positive,negative,2,T3,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.051,Resistant
+GSM4171544,54.0,positive,positive,negative,2.0,T2,N0,Normal,,,Resistant
+GSM505528,52.0,negative,negative,negative,3.0,T3,,,,,Resistant
+GSM505592,50.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM508079,53.0,positive,negative,negative,3,T2,N1,,,,Resistant
+GSM505356,46.0,negative,negative,positive,3.0,T2,,,,,Sensitive
+GSM505538,40.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM615214,54.0,positive,negative,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.536,Resistant
+GSM615263,61.0,negative,negative,negative,3,T4,N1,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.992,Sensitive
+GSM615101,52.2,negative,negative,negative,3,T4,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.205,Resistant
+GSM615179,56.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 7.083,Resistant
+GSM615299,47.0,positive,positive,negative,2,T1,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.667,Resistant
+GSM505463,70.0,positive,negative,positive,2.0,T0,,,,,Sensitive
+GSM615359,51.0,negative,negative,negative,3,T4,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.728,Sensitive
+GSM505550,67.0,positive,negative,negative,2.0,T1,,,,,Resistant
+GSM615310,64.0,positive,negative,negative,3,T2,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.338,Sensitive
+GSM505416,48.0,negative,negative,negative,2.0,T2,,,,,Resistant
+GSM505358,38.0,negative,positive,negative,3.0,T1,,,,,Sensitive
+GSM809256,50.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM615783,47.0,positive,negative,negative,2,T4,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.95482546201232,Resistant
+GSM809248,36.0,negative,negative,negative,,T2,,,,,Sensitive
+GSM505551,47.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM615665,50.1,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.48186173853525,Sensitive
+GSM505362,51.0,positive,negative,positive,3.0,T3,,,,,Resistant
+GSM615772,53.0,positive,positive,negative,3,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.81587953456537,Resistant
+GSM615312,51.0,negative,positive,negative,2,T2,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.706,Resistant
+GSM508093,52.0,negative,negative,negative,2,T2,N0,,,,Resistant
+GSM615198,57.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.593,Resistant
+GSM809240,45.0,positive,positive,negative,,T3,,,,,Resistant
+GSM508085,46.0,negative,negative,negative,3,T4,N2,,,,Resistant
+GSM615348,33.0,negative,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.303,Resistant
+GSM615667,55.7,negative,negative,negative,3,T3,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.22313483915127,Resistant
+GSM505406,79.0,positive,positive,negative,3.0,T2,,,,,Resistant
+GSM505495,50.0,negative,negative,positive,3.0,T3,,,,,Resistant
+GSM505410,39.0,positive,positive,positive,3.0,T2,,,,,Resistant
+GSM615393,43.0,negative,negative,negative,3,T3,N2,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.265,Sensitive
+GSM615177,50.0,positive,positive,negative,unknown,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.744,Resistant
+GSM615150,44.4,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.174,Resistant
+GSM505541,62.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM809230,42.0,negative,negative,negative,,T2,,,,,Resistant
+GSM615138,35.1,positive,negative,negative,2,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.904,Resistant
+GSM615339,58.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.171,Resistant
+GSM508029,73.0,negative,negative,positive,3,T2,N0,,,,Resistant
+GSM505586,64.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM615180,47.0,positive,positive,negative,2,T3,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.758,Resistant
+GSM505572,58.0,negative,negative,negative,3.0,T2,,,,,Resistant
+GSM615254,49.0,positive,positive,negative,2,T2,N3,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.153,Resistant
+GSM615256,51.0,positive,negative,negative,3,T3,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.647,Sensitive
+GSM615811,61.0,positive,positive,negative,3,T3,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.41957563312799,Resistant
+GSM505462,50.0,negative,negative,negative,2.0,T4,,,,,Resistant
+GSM505526,68.0,positive,positive,negative,2.0,T0,,,,,Resistant
+GSM615670,52.5,positive,positive,negative,2,T3,N0,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.01916495550992,Resistant
+GSM615817,42.0,positive,positive,negative,1,T3,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.63039014373717,Resistant
+GSM4171523,75.0,positive,positive,negative,2.0,T2,N0,Normal,,,Resistant
+GSM505482,45.0,positive,positive,positive,2.0,T3,,,,,Resistant
+GSM508122,73.0,positive,negative,negative,2,T4,N1,,,,Resistant
+GSM615678,54.6,positive,positive,negative,3,T2,N0,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.97262149212868,Resistant
+GSM809212,31.0,positive,negative,positive,,T2,,,,,Resistant
+GSM809255,62.0,negative,negative,negative,,T2,,,,,Resistant
+GSM615293,31.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.372,Sensitive
+GSM615632,41.9,negative,positive,positive,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.14442162902122,Sensitive
+GSM508080,46.0,negative,negative,negative,3,T2,N2,,,,Resistant
+GSM505599,49.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM505425,50.0,negative,positive,positive,3.0,T2,,,,,Resistant
+GSM2778766,,negative,negative,negative,,,,,,,Resistant
+GSM4171533,62.0,positive,positive,negative,2.0,T2,N1,LumB,,,Sensitive
+GSM809190,48.0,positive,negative,positive,,T4,,,,,Resistant
+GSM615237,45.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.575,Resistant
+GSM809236,47.0,negative,negative,positive,,T2,,,,,Sensitive
+GSM505451,47.0,positive,positive,negative,2.0,T2,,,,,Resistant
+GSM508102,47.0,positive,positive,positive,2,T2,N1,,,,Resistant
+GSM508126,65.0,positive,positive,positive,2,T1,N1,,,,Resistant
+GSM809276,55.0,negative,negative,positive,,T4,,,,,Resistant
+GSM615173,47.8,positive,positive,negative,unknown,T1,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.086,Resistant
+GSM615754,59.0,positive,negative,negative,3,T2,N3,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.53045859000684,Resistant
+GSM508084,62.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615648,59.2,positive,negative,negative,3,T3,N0,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.42162902121834,Resistant
+GSM615700,69.0,positive,positive,negative,1,T3,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.02053388090349,Resistant
+GSM809297,68.0,positive,negative,negative,,T2,,,,,Resistant
+GSM615171,43.1,negative,negative,unknown,unknown,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.390,Sensitive
+GSM615800,40.0,negative,negative,negative,3,T4,N0,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.876112251882272,Resistant
+GSM508089,38.0,negative,negative,negative,3,T2,N1,,,,Resistant
+GSM508032,64.0,positive,positive,negative,2,T2,N0,,,,Resistant
+GSM615318,47.0,positive,positive,negative,2,T3,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.371,Resistant
+GSM615176,45.5,positive,positive,negative,1,T3,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.453,Resistant
+GSM505499,36.0,negative,negative,negative,3.0,T3,,,,,Resistant
+GSM4171571,67.0,positive,positive,positive,3.0,T2,N1,Normal,,,Resistant
+GSM4171576,54.0,positive,positive,negative,1.0,T2,N1,LumA,,,Resistant
+GSM505598,51.0,positive,positive,negative,2.0,T2,,,,,Sensitive
+GSM615370,36.0,positive,positive,negative,2,T2,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.336,Resistant
+GSM505396,54.0,positive,positive,negative,2.0,T3,,,,,Resistant
+GSM809204,30.0,negative,negative,negative,,T2,,,,,Resistant
+GSM505504,51.0,negative,negative,positive,3.0,T3,,,,,Resistant
+GSM809211,65.0,negative,negative,positive,,T2,,,,,Resistant
+GSM615751,38.0,negative,negative,negative,3,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.73853524982888,Resistant
+GSM615216,58.0,positive,positive,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.669,Resistant
+GSM505333,29.0,negative,negative,negative,3.0,T4,,,,,Resistant
+GSM615735,51.0,positive,positive,negative,3,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.6009582477755,Resistant
+GSM4171522,42.0,negative,negative,negative,3.0,T2,N0,Basal,,,Resistant
+GSM615746,56.0,negative,negative,negative,2,T2,N3,pam50_class: Normal,drfs_1_event_0_censored: 1,drfs_even_time_years: 1.19917864476386,Resistant
+GSM505395,52.0,positive,positive,positive,3.0,T2,,,,,Resistant
+GSM615651,60.9,negative,negative,negative,2,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.791238877481177,Resistant
+GSM508099,49.0,negative,negative,positive,3,T2,N0,,,,Sensitive
+GSM505424,44.0,positive,negative,negative,2.0,T1,,,,,Resistant
+GSM505511,53.0,negative,negative,positive,2.0,T1,,,,,Sensitive
+GSM809292,47.0,positive,positive,negative,,T2,,,,,Resistant
+GSM505399,45.0,positive,negative,negative,3.0,T2,,,,,Resistant
+GSM505338,53.0,positive,negative,negative,2.0,T4,,,,,Resistant
+GSM809274,53.0,negative,negative,negative,,T1,,,,,Sensitive
+GSM615705,40.0,positive,positive,negative,1,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 5.28952772073922,Resistant
+GSM615139,56.3,negative,negative,unknown,3,T2,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.360,Sensitive
+GSM508112,45.0,positive,positive,positive,3,T3,N1,,,,Resistant
+GSM508123,40.0,positive,positive,negative,3,T1,N1,,,,Resistant
+GSM615345,64.0,negative,negative,negative,2,T2,N1,pam50_class: LumB,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.059,Resistant
+GSM615641,40.3,negative,positive,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.46269678302532,Resistant
+GSM615204,46.0,positive,positive,negative,2,T1,N0,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.311,Resistant
+GSM2778777,,negative,negative,negative,,,,,,,Resistant
+GSM809251,61.0,negative,negative,negative,,T2,,,,,Resistant
+GSM809271,61.0,positive,negative,positive,,T2,,,,,Sensitive
+GSM615638,57.5,positive,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.49349760438056,Resistant
+GSM615280,41.0,positive,positive,negative,3,T3,N1,pam50_class: Her2,drfs_1_event_0_censored: 0,drfs_even_time_years: 3.447,Sensitive
+GSM615696,65.0,negative,negative,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.95140314852841,Resistant
+GSM615125,44.1,positive,positive,negative,2,T2,N0,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 4.074,Resistant
+GSM505330,54.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM508141,53.0,negative,negative,negative,unknown,T4,N2,,,,Resistant
+GSM615743,43.4,positive,positive,negative,2,T2,N2,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.10540725530459,Resistant
+GSM615315,32.0,negative,negative,negative,3,T4,N3,pam50_class: Basal,drfs_1_event_0_censored: 1,drfs_even_time_years: 0.890,Resistant
+GSM615183,34.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 6.710,Resistant
+GSM615331,61.0,positive,positive,negative,3,T2,N1,pam50_class: Basal,drfs_1_event_0_censored: 0,drfs_even_time_years: 2.188,Sensitive
+GSM615323,32.0,negative,negative,negative,3,T4,N3,pam50_class: Normal,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.881,Resistant
+GSM615245,36.0,positive,positive,negative,2,T2,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 2.256,Resistant
+GSM4171527,50.0,negative,negative,negative,3.0,T2,N0,LumA,,,Resistant
+GSM505484,55.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM505350,67.0,negative,negative,negative,2.0,T2,,,,,Resistant
+GSM505603,64.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM505531,46.0,negative,negative,positive,3.0,T3,,,,,Sensitive
+GSM615381,62.0,positive,positive,negative,3,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 0,drfs_even_time_years: 1.008,Resistant
+GSM505594,44.0,positive,negative,negative,2.0,T2,,,,,Resistant
+GSM615221,38.0,positive,positive,negative,3,T4,N1,pam50_class: LumA,drfs_1_event_0_censored: 1,drfs_even_time_years: 3.362,Resistant
+GSM4171535,44.0,negative,negative,negative,3.0,T2,N0,Basal,,,Sensitive
